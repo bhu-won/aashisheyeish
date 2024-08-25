@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aashisheyeish
-- 👀 I’m interested in Photography, Classical Literature and Programming
+- 👀 I’m interested in Photography, Books and Programming
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 📫 How to reach me: Instagram (same username as GitHub) and email
 - ⚡ Fun fact: Jack of all trades (wink)
